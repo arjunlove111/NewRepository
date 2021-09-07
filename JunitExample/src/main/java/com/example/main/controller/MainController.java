@@ -13,6 +13,7 @@ public class MainController {
 	public Student m1()
 	{
 		System.out.println("Arjun");
+		System.out.println("junno");
 		Student s=new Student();
 		s.setId(100);
 		s.setName("Arjun");
